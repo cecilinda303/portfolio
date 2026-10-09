@@ -70,30 +70,6 @@ Aplicação web para organizar tarefas do dia a dia com persistência local.
 ### 🌦️ App Previsão do Tempo *(em desenvolvimento)*
 Consulta de clima em tempo real consumindo API pública.
 
-## 🚀 Como rodar localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/cecilinda303/portfolio.git
-   ```
-2. Abra o arquivo `index.html` no navegador
-   
-   **Ou**, se preferir com servidor local:
-   ```bash
-   python3 -m http.server 8000
-   ```
-   E acesse `http://localhost:8000`
-
-## 📝 Como editar
-
-1. Edite os arquivos localmente (ou no Codespace)
-2. Faça o commit e o push:
-   ```bash
-   git add .
-   git commit -m "sua mudança"
-   git push
-   ```
-3. O Vercel atualiza automaticamente em segundos ✨
 
 ## 👩‍💻 Autora
 

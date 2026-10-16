@@ -7,7 +7,6 @@ Apresenta minha trajetória, formação, experiência profissional, cursos, idio
 
 👉 **https://portfolio-jet-kappa-42.vercel.app**
 
-> Substitua o link acima pelo link real que o Vercel te deu.
 
 ## 🎀 Sobre o projeto
 
